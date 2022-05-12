@@ -1,6 +1,6 @@
 # COMP6248-Reproducibility-Challenge
 ## download mini-imagenet
-link: [https://pan.baidu.com/s/1Uro6RuEbRGGCQ8iXvF2SAQ](https://pan.baidu.com/s/1Uro6RuEbRGGCQ8iXvF2SAQ)  password: hl31
+link: https://paperswithcode.com/dataset/miniimagenet-1
 
 ## dataset path structure
 ```
