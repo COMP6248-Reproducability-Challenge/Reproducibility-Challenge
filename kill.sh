@@ -1,0 +1,1 @@
+killall -9 /home/yzbj10/anaconda3/envs/point/bin/python
